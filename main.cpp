@@ -58,8 +58,6 @@ int main() {
     const int maxArea = 4000;
     double areaWeight = 0.5;
 
-    int straightSpeed = 100;
-    double k = 0.13;
 
     while (true) {
         if (ctrl_c_pressed) break;
