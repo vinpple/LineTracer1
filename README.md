@@ -1,5 +1,9 @@
 # LineTracer1 라인 검출
 
+https://youtu.be/HNefYVfzqj8?si=KgrK8VozFaRQVw9_
+
+https://youtu.be/Hm5cCZV-_Uw?si=2ImVJKRQDTVfifxn
+
 https://github.com/vinpple/LineTracer1/blob/584bbb8d567bcd239d370d0caf2baf24fb837daa/main.cpp#L12-L19
 
 ctrl_c_pressed: Ctrl+C 신호를 감지하여 프로그램을 종료.
